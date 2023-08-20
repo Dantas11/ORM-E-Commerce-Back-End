@@ -43,7 +43,7 @@ After installing the dependencies, open in a integrated terminal and run the app
 
 node server.js
 
-Link for application: https://www.youtube.com/watch?v=aD3RD8nNw3s 
+Link for walkthrough video: https://www.youtube.com/watch?v=aD3RD8nNw3s 
 
 ## Licence
 
