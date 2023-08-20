@@ -30,7 +30,7 @@ router.get('/', (req, res) => {
 });
 
 router.get('/:id', (req, res) => {
-  // find a single tag by its `id` (include its associated Product data)
+  // finds a single tag by its `id` (include its associated Product data)
   Tag.findOne({
     where: {
       id: req.params.id,
@@ -65,7 +65,7 @@ router.get('/:id', (req, res) => {
 });
 
 router.post('/', (req, res) => {
-  // create a new tag
+  // creates a new tag
   Tag.create(req.body)
   .then(dbTagData => res.json(dbTagData))
   .catch(err => {
@@ -75,7 +75,7 @@ router.post('/', (req, res) => {
 });
 
 router.put('/:id', (req, res) => {
-  // update a tag's name by its `id` value
+  // updates a tag's name by its `id` value
   Tag.update(req.body, {
     where: {
         id: req.params.id
