@@ -2,7 +2,7 @@
 
 ## Project Description
 
-
+A back end for an e-commerce site built with Express.js, Sequelize and MySQL. Where it is possible to Get routes to return categories, products and tags, also to post, put and delete routes.
 
 ## User Story
 
