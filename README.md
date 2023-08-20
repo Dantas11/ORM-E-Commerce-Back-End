@@ -24,10 +24,15 @@ SO THAT my company can compete with other e-commerce companies
 ## Installation
 
 node.js
+
 express.js
+
 MySQL2
+
 Sequelize
+
 dotenv
+
 npm install
 
 ## Usage
