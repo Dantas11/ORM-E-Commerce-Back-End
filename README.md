@@ -12,7 +12,14 @@ SO THAT my company can compete with other e-commerce companies
 
 ## SCREENSHOTS
 
-![Note Take]()
+![Note Take](https://github.com/Dantas11/ORM-E-Commerce-Back-End/blob/main/assets/images/OMR-1.png)
+
+![Note Take](https://github.com/Dantas11/ORM-E-Commerce-Back-End/blob/main/assets/images/ORM-2.png)
+
+![Note Take](https://github.com/Dantas11/ORM-E-Commerce-Back-End/blob/main/assets/images/ORM-3.png
+)
+
+![Note Take](https://github.com/Dantas11/ORM-E-Commerce-Back-End/blob/main/assets/images/ORM-4.png)
 
 ## Installation
 
