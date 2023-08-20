@@ -23,9 +23,12 @@ SO THAT my company can compete with other e-commerce companies
 
 ## Installation
 
-npm i inquirer@8.2.4
-
-npm install --save mysql2
+node.js
+express.js
+MySQL2
+Sequelize
+dotenv
+npm install
 
 ## Usage
 
